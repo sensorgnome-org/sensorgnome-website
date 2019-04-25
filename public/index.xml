@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Sensorgnome Site</title>
+    <link>https://new.sensorgnome.org/</link>
+    <description>Recent content on New Sensorgnome Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://new.sensorgnome.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://new.sensorgnome.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.sensorgnome.org/about/</guid>
+      <description>The New Home of Sensorgnome.org The sensorgnome project is in the process of moving to this new site. Announcements will be posted to the sensorgnomads google group
+For now, documentation is still available at the original sensorgnome.org site, hosted by Acadia University.
+Sponsors The sensorgnome project thanks Compudata.ca for contributing the hosting for this site, and for donating a portion of each unit sold to help us support and develop the platform.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://new.sensorgnome.org/status/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://new.sensorgnome.org/status/</guid>
+      <description>Status of Networked SensorGnomes (Generated 2019-03-04 14:49:38)   Serial Number Port Status Lat/Lon Boot Count Connected Since Next Sync     1614BBBK1666 40291 stream ?? -1 2019-03-03 00:13:08 ??   5113BBBK2972 40407 tunnel+stream ?? -1 2019-03-03 16:16:28 ??   5113BBBK2853 40088 stream ?? -1 2019-03-04 14:49:29 ??   0816BBBK009E 40581 tunnel+stream ?? -1 2019-03-03 14:04:11 ??   F783RPI36B63 40763 tunnel+stream ?? -1 2019-03-02 19:34:14 ?</description>
+    </item>
+    
+  </channel>
+</rss>
