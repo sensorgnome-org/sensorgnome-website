@@ -34,6 +34,11 @@ theme = "vanilla-bootstrap-hugo-theme"
     pre = "info"
     url = "/about/"
     weight = 4
+  [[menu.nav]]
+    name = "Source"
+    pre = "github"
+    url = "/source/"
+    weight = 4
 
 [params]
   includeBootstrapJs = true
