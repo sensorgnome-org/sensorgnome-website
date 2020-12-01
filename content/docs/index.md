@@ -1,7 +1,9 @@
-## Documentation
+# Documentation
 
-We need new documentation!   The old documentation was written for a
-wiki sytem which we can no longer host.  This has been archived as a static
-version.
+In progress documentation is available on Read the Docs here: [Sensorgnome Docs](sensorgnome.readthedocs.io).
 
-**Archived Old Documentation**: [here](https://archived.sensorgnome.org)
+The documentation is built from the [sensorgnome-docs](https://github.com/sensorgnome-org/sensorgnome-docs) repo and is automatically built and deployed using [Travis CI](https://travis-ci.org/github/sensorgnome-org/sensorgnome-docs/).
+
+## Archived Documentation
+
+The old documentation is archived as a static version [here](https://archived.sensorgnome.org)
