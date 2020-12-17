@@ -1,4 +1,4 @@
-## The New Home of Sensorgnome.org ##
+## Sensorgnome.org ##
 
 **What's this?**
 
