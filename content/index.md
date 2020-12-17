@@ -1,4 +1,4 @@
-## The New Home of Sensorgnome.org
+## Sensorgnome.org
 
 ### What's this?
 The sensorgnome project has moved to this new site, with hosting kindly donated by [COMPUDATA.ca](https://compudata.ca),
