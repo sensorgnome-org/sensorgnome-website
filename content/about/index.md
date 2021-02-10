@@ -1,3 +1,6 @@
+## About
+Currently, development of SensorGnome is being supported by [Birds Canada](https://www.birdscanada.ca) through the [Motus Wildlife Tracking System](https://motus.org/).
+
 ## Sponsors
 The sensorgnome project thanks [Phil Taylor's lab at Acadia University](http://discovery.acadiau.ca) for hosting
 and supporting the sensorgnome project from 2012 to 2018.
