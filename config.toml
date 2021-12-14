@@ -1,6 +1,6 @@
-baseURL = "https://new.sensorgnome.org"
+baseURL = "https://sensorgnome.org"
 languageCode = "en-us"
-title = "New Sensorgnome Site"
+title = "Sensorgnome Site"
 defaultContentLanguage = "en"
 theme = "vanilla-bootstrap-hugo-theme"
 
@@ -52,5 +52,5 @@ theme = "vanilla-bootstrap-hugo-theme"
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
   homeText = "Sensorgnome"
-  footerText = "[SensorgnomeServer](https://github.com/jbrzusto/sensorgnomeServer) uses [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
+  footerText = "[sensorgnome-website](https://github.com/sensorgnome-org/sensorgnome-website) uses [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)"
   hideFooter = false
