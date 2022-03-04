@@ -48,6 +48,12 @@ theme = "vanilla-bootstrap-hugo-theme"
 [params]
   includeBootstrapJs = true
 
+# Needed to render links to direct SGs.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
   showActiveNav = true
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
